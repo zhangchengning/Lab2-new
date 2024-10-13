@@ -57,3 +57,4 @@ class Solution14 {
         System.out.println(solution.restoreIpAddresses("101023"));  
     }  
 }
+//Solution14 with Solution13
